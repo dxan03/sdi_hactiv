@@ -7,7 +7,7 @@ Menganalisis persebaran outlet coffee shop di Indonesia untuk menemukan peluang 
 
 ## Dataset link
 **Dataset:** Coffee Store Outlet in Indonesia  
-**Link:** [(contoh link Google Drive / GitHub repo kamu](https://www.kaggle.com/datasets/ryanalphaaugust/coffee-store-location)]
+**Link:** [(link to dataset)](https://www.kaggle.com/datasets/ryanalphaaugust/coffee-store-location)]
 
 ## Insight & Findings
 - **Distribusi Kota & Provinsi:**  
